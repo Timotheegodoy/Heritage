@@ -8,7 +8,8 @@ Les outils mis en oeuvre:
 *Objets
 
 <h2>Diagrammes de classe</h2>
-<a href="http://zupimages.net/viewer.php?id=19/15/723o.png"><img src="https://zupimages.net/up/19/15/723o.png" alt="" /></a>
-<a href="http://zupimages.net/viewer.php?id=19/15/nf78.png"><img src="https://zupimages.net/up/19/15/nf78.png" alt="" /></a><br>
+<a href="https://image.noelshack.com/fichiers/2019/15/3/1554855514-capture3.png" alt="" /></a>
 
 Le but est le suivant :
+
+*Gerer un heritage de média dans cd et films
