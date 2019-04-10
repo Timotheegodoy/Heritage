@@ -3,9 +3,9 @@ Le but du Tp est d'utiliser un Héritage de classes. En effet, une classe peut h
 
 Les outils mis en oeuvre:
 
-*C#
-*Heritage
-*Objets
+*C# <br>
+*Heritage <br>
+*Objets <br>
 
 <h2>Diagrammes de classe</h2>
 
@@ -14,3 +14,5 @@ Les outils mis en oeuvre:
 Le but est le suivant :
 
 *Gerer un heritage de média dans cd et films
+
+Creer une liste de média dans database qui contient à la fois des cd et des vidéos et pouvoir les afficher
