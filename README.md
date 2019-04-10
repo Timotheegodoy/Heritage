@@ -8,7 +8,7 @@ Les outils mis en oeuvre:
 *Objets
 
 <h2>Diagrammes de classe</h2>
-<a href="https://image.noelshack.com/fichiers/2019/15/3/1554855514-capture3.png" alt="" /></a>
+![capture.png](https://image.noelshack.com/fichiers/2019/15/3/1554855514-capture3.png)<br>
 
 Le but est le suivant :
 
